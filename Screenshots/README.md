@@ -6,6 +6,7 @@ Shows Windows Server promoted as Domain Controller (PatchLab.local) with AD DS i
 ![OU](OU.png)
 ![Users](ADUser.png)
 ![Groups](ADGroup.png)
+
 Displays created OUs (UsersAccounts, IT), group (IT_Admins), and user (bob).
 
 ### 3. Group Policies Created
