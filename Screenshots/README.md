@@ -1,5 +1,5 @@
 ### 1. AD Installation
-![AD Setup](Screenshots/AD_Installation.png)
+![AD Setup](AD_Installation.png)
 Shows Windows Server promoted as Domain Controller (PatchLab.local) with AD DS installed successfully.
 
 ### 2. Organizational Units and Users
