@@ -26,7 +26,7 @@ Host-Only network: `192.168.56.0/24`
 ## 🧱 How to Reproduce
 1. Install and configure Windows Server 2019 in VirtualBox  
 2. Promote to Domain Controller: `Install-ADDSForest -DomainName patchlab.local`  
-3. Create OUs, users, and GPOs using PowerShell scripts from `/scripts/`  
+3. Create OUs, users, and GPOs using PowerShell scripts from `/Powershell/`  
 4. Join Windows 10 client to domain and verify policy enforcement  
 5. Trigger login failures, inspect logs via Event Viewer or PowerShell  
 
